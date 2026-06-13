@@ -1,0 +1,13 @@
+name: ForceItemBattle
+version: 1.0
+main: de.deinname.monsterarmy.Main
+api-version: 1.21
+depend: [Timer]
+commands:
+  force:
+    description: Config und Skips
+  reset:
+    description: Setzt das Spiel komplett zurück
+  result:
+    description: Zeigt das Ergebnis an
+    usage: /result
